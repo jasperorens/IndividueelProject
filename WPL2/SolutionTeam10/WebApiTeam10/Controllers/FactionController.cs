@@ -11,7 +11,6 @@ namespace WebApiTeam10.Controllers
     public class FactionController : ControllerBase
     {
         [HttpPost]
-        [HttpGet]
         [Route("AddFaction")]
 
         public void Addcard(int factionId, string race, string factionName, string factionLeader, string factionStronghold)
@@ -20,6 +19,7 @@ namespace WebApiTeam10.Controllers
             Factions.Add(factionId, race, factionName, factionLeader, factionStronghold);
         }
 
+        [HttpGet]
         public ActionResult GetAllFactions()
         {
             var result = Factions.GetFactions();
