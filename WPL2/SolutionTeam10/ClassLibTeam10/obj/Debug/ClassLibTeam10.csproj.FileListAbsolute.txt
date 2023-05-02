@@ -1,0 +1,29 @@
+C:\Users\J\Desktop\WPL2\SolutionTeam06\ClassLibTeam06\bin\Debug\ClassLibTeam06.dll
+C:\Users\J\Desktop\WPL2\SolutionTeam06\ClassLibTeam06\bin\Debug\ClassLibTeam06.pdb
+C:\Users\J\Desktop\WPL2\SolutionTeam06\ClassLibTeam06\obj\Debug\ClassLibTeam10.csproj.AssemblyReference.cache
+C:\Users\J\Desktop\WPL2\SolutionTeam06\ClassLibTeam06\obj\Debug\ClassLibTeam10.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\WPL2\SolutionTeam06\ClassLibTeam06\obj\Debug\ClassLibTeam06.dll
+C:\Users\J\Desktop\WPL2\SolutionTeam06\ClassLibTeam06\obj\Debug\ClassLibTeam06.pdb
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\ClassLibTeam06\bin\Debug\ClassLibTeam06.dll
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\ClassLibTeam06\bin\Debug\ClassLibTeam06.pdb
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\ClassLibTeam06\obj\Debug\ClassLibTeam10.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\ClassLibTeam06\obj\Debug\ClassLibTeam10.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\ClassLibTeam06\obj\Debug\ClassLibTeam06.dll
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\ClassLibTeam06\obj\Debug\ClassLibTeam06.pdb
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam10\ClassLibTeam10\obj\Debug\ClassLibTeam10.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam10\ClassLibTeam10\obj\Debug\ClassLibTeam10.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam10\ClassLibTeam10\bin\Debug\ClassLibTeam10.dll
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam10\ClassLibTeam10\bin\Debug\ClassLibTeam10.pdb
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam10\ClassLibTeam10\obj\Debug\ClassLibTeam10.dll
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam10\ClassLibTeam10\obj\Debug\ClassLibTeam10.pdb
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\ClassLibTeam10\obj\Debug\ClassLibTeam10.csproj.AssemblyReference.cache
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\ClassLibTeam10\obj\Debug\ClassLibTeam10.csproj.CoreCompileInputs.cache
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\ClassLibTeam10\obj\Debug\ClassLibTeam10.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\ClassLibTeam10\obj\Debug\ClassLibTeam10.pdb
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\ClassLibTeam10\bin\Debug\ClassLibTeam10.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\ClassLibTeam10\bin\Debug\ClassLibTeam10.pdb
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\ClassLibTeam10\bin\Debug\System.Data.SqlClient.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\ClassLibTeam10\bin\Debug\System.Data.SqlClient.xml
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\ClassLibTeam10\obj\Debug\ClassLibTeam10.csproj.CopyComplete
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\ClassLibTeam10\bin\Debug\Newtonsoft.Json.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\ClassLibTeam10\bin\Debug\Newtonsoft.Json.xml
