@@ -20,8 +20,13 @@ namespace WebApiTeam10.Controllers
             //voeg dependincy van lib toe
             Factions.Add(factionId, race, factionName, factionLeader, factionStronghold);
         }
+<<<<<<< HEAD
         [HttpGet]
         [Route("GetFactions")]
+=======
+
+        [HttpGet]
+>>>>>>> 9b87c11dd85911cb45969249849f446ad8c93423
         public ActionResult GetAllFactions()
         {
             var result = Factions.GetFactions();
