@@ -3715,7 +3715,7 @@ dso_cache:
 	.size	dso_cache, 1024
 
 	#
-	# Generated from instance of: Xamarin.Android.Tasks.ApplicationConfig, Xamarin.Android.Build.Tasks, Version=12.3.99.76, Culture=neutral, PublicKeyToken=84e04ff9cfb79065
+	# Generated from instance of: Xamarin.Android.Tasks.ApplicationConfig, Xamarin.Android.Build.Tasks, Version=12.3.99.85, Culture=neutral, PublicKeyToken=84e04ff9cfb79065
 	#
 	.type	application_config, @object
 	.global	application_config
@@ -3791,7 +3791,11 @@ application_config:
 
 	.type	.L.autostr.8, @object
 .L.autostr.8:
+<<<<<<< HEAD
 	.asciz	"8f344c6a-e277-412d-9585-3fb6eeafef1e"
+=======
+	.asciz	"e92dd818-b760-4591-b48f-c01ef86a35ec"
+>>>>>>> refs/remotes/origin/main
 	.size	.L.autostr.8, 37
 
 	.type	.L.autostr.9, @object
@@ -3980,4 +3984,4 @@ application_config:
 	.size	.L.autostr.45, 25
 
 
-	.ident	"Xamarin.Android remotes/origin/release/6.0.4xx @ af4a25d50f5a602c77d05c2ec8c8644c00cffbbd"
+	.ident	"Xamarin.Android remotes/origin/release/6.0.4xx @ 619ab7a92a09825ecb274bf87d8086d2dbe63aea"
