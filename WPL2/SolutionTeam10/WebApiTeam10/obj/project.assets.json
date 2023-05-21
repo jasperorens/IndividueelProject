@@ -742,23 +742,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PC\\.nuget\\packages\\": {},
+    "C:\\Users\\J\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\JASPER\\WORK\\Opleidingen\\PXL\\WPL\\WPL2\\individueel project\\WPL2\\SolutionTeam10\\WebApiTeam10\\WebApiTeam10.csproj",
+      "projectUniqueName": "C:\\Users\\J\\Desktop\\Vakken\\WPL2\\IndividueelProject\\WPL2\\SolutionTeam10\\WebApiTeam10\\WebApiTeam10.csproj",
       "projectName": "WebApiTeam10",
-      "projectPath": "D:\\JASPER\\WORK\\Opleidingen\\PXL\\WPL\\WPL2\\individueel project\\WPL2\\SolutionTeam10\\WebApiTeam10\\WebApiTeam10.csproj",
-      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\JASPER\\WORK\\Opleidingen\\PXL\\WPL\\WPL2\\individueel project\\WPL2\\SolutionTeam10\\WebApiTeam10\\obj\\",
+      "projectPath": "C:\\Users\\J\\Desktop\\Vakken\\WPL2\\IndividueelProject\\WPL2\\SolutionTeam10\\WebApiTeam10\\WebApiTeam10.csproj",
+      "packagesPath": "C:\\Users\\J\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\J\\Desktop\\Vakken\\WPL2\\IndividueelProject\\WPL2\\SolutionTeam10\\WebApiTeam10\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\J\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -774,8 +774,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\JASPER\\WORK\\Opleidingen\\PXL\\WPL\\WPL2\\individueel project\\WPL2\\SolutionTeam10\\ClassLibTeam10\\ClassLibTeam10.csproj": {
-              "projectPath": "D:\\JASPER\\WORK\\Opleidingen\\PXL\\WPL\\WPL2\\individueel project\\WPL2\\SolutionTeam10\\ClassLibTeam10\\ClassLibTeam10.csproj"
+            "C:\\Users\\J\\Desktop\\Vakken\\WPL2\\IndividueelProject\\WPL2\\SolutionTeam10\\ClassLibTeam10\\ClassLibTeam10.csproj": {
+              "projectPath": "C:\\Users\\J\\Desktop\\Vakken\\WPL2\\IndividueelProject\\WPL2\\SolutionTeam10\\ClassLibTeam10\\ClassLibTeam10.csproj"
             }
           }
         }
@@ -822,7 +822,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

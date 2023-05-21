@@ -5,13 +5,14 @@ using Newtonsoft.Json;
 
 namespace WebApiTeam10.Controllers
 {
+    //WebApi -> Add -> Project reference
+
     [ApiController]
     [Route("api/[controller]")]
 
     public class FactionController : ControllerBase
     {
         [HttpPost]
-        [HttpGet]
         [Route("AddFaction")]
 
         public void Addcard(int factionId, string race, string factionName, string factionLeader, string factionStronghold)
@@ -19,7 +20,8 @@ namespace WebApiTeam10.Controllers
             //voeg dependincy van lib toe
             Factions.Add(factionId, race, factionName, factionLeader, factionStronghold);
         }
-
+        [HttpGet]
+        [Route("GetFactions")]
         public ActionResult GetAllFactions()
         {
             var result = Factions.GetFactions();
