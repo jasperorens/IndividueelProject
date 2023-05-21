@@ -1,3 +1,4 @@
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.dll
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\MauiApp1.runtimeconfig.json
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\MauiApp1.dll
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\MauiApp1.pdb
@@ -179,7 +180,6 @@ C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\b
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Xaml.dll
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.dll
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Essentials.dll
-C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.dll
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\System.Private.CoreLib.dll
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\icudt.dat
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\icudt_CJK.dat
@@ -209,6 +209,9 @@ C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\b
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.dylib
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.a
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.dylib
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\ClassLibTeam10.dll
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\ClassLibTeam10.pdb
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\ClassLibTeam10.dll.config
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\mauiimage.inputs
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\mauifont.inputs
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\mauisplash.inputs
@@ -253,6 +256,3 @@ C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\o
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\MauiApp1.pdb
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\MauiApp1.genruntimeconfig.cache
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\ref\MauiApp1.dll
-C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\ClassLibTeam10.dll
-C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\ClassLibTeam10.pdb
-C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\ClassLibTeam10.dll.config

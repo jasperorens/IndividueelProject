@@ -213,6 +213,9 @@ C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\b
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet-debug.dylib
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet.a
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-ios\iossimulator-x64\ClassLibTeam10.dll
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-ios\iossimulator-x64\ClassLibTeam10.pdb
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-ios\iossimulator-x64\ClassLibTeam10.dll.config
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-ios\iossimulator-x64\mauiimage.inputs
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-ios\iossimulator-x64\mauifont.inputs
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-ios\iossimulator-x64\mauisplash.inputs
@@ -263,6 +266,3 @@ C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\o
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-ios\iossimulator-x64\MauiApp1.pdb
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-ios\iossimulator-x64\MauiApp1.genruntimeconfig.cache
 C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-ios\iossimulator-x64\ref\MauiApp1.dll
-C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-ios\iossimulator-x64\ClassLibTeam10.dll
-C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-ios\iossimulator-x64\ClassLibTeam10.pdb
-C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\bin\Debug\net6.0-ios\iossimulator-x64\ClassLibTeam10.dll.config
