@@ -489,6 +489,7 @@ D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\M
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot.png
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@2x.png
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@3x.png
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\appbackground.jpg
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\mauiimage.stamp
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\mauifont.stamp
@@ -514,4 +515,3 @@ D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\M
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\MauiApp1.pdb
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\MauiApp1.genruntimeconfig.cache
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\ref\MauiApp1.dll
-D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\appbackground.jpg

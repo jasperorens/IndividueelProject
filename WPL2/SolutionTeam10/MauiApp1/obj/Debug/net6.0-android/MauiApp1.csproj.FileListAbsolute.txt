@@ -1037,6 +1037,7 @@ D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\M
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-android\resizetizer\r\drawable-xxhdpi\splash.png
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-android\resizetizer\r\drawable-xxxhdpi\dotnet_bot.png
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-android\resizetizer\r\drawable-xxxhdpi\splash.png
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-android\resizetizer\r\drawable\appbackground.jpg
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-android\resizetizer\r\mipmap-anydpi-v26\appicon.xml
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-android\resizetizer\r\mipmap-anydpi-v26\appicon_round.xml
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-android\resizetizer\r\mipmap-hdpi\appicon.png
@@ -1963,4 +1964,3 @@ D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\M
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-android\android\assets\System.Private.CoreLib.dll
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-android\android\assets\System.Private.Uri.dll
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-android\android\assets\System.Xml.dll
-D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-android\resizetizer\r\drawable\appbackground.jpg

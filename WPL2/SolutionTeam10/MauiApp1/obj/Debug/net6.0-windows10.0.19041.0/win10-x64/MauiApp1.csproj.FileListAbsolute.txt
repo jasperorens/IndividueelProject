@@ -646,6 +646,7 @@ D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\M
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauifont.stamp
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appbackground.scale-100.jpg
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
@@ -724,4 +725,3 @@ D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\M
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
-D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\MauiApp1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appbackground.scale-100.jpg
