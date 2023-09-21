@@ -19,14 +19,12 @@ namespace MauiApp1
             for(int i = 1; i < factionsArray.Length; i++)
             {
                 string[] firstSplit = factionsArray[i].Split('"');
-                string[] secondSplit = firstSplit[16].Split(':');
-                string[] thirdSplit = secondSplit[0].Split('}');
 
                 Faction faction = new Faction();
                 faction.Race = firstSplit[5];
                 faction.FactionName= firstSplit[9];
                 faction.FactionLeader= firstSplit[13];
-                faction.FactionStronghold = thirdSplit[0];
+                faction.FactionStronghold = firstSplit[18];
 
                 factionList.Add(faction);
             }

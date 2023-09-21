@@ -3791,11 +3791,7 @@ application_config:
 
 	.type	.L.autostr.8, @object
 .L.autostr.8:
-<<<<<<< HEAD
-	.asciz	"8f344c6a-e277-412d-9585-3fb6eeafef1e"
-=======
-	.asciz	"e92dd818-b760-4591-b48f-c01ef86a35ec"
->>>>>>> refs/remotes/origin/main
+	.asciz	"353e7fa1-852f-40a7-a0a1-8a26ed130aba"
 	.size	.L.autostr.8, 37
 
 	.type	.L.autostr.9, @object
