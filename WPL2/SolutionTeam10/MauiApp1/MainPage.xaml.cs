@@ -24,7 +24,12 @@ namespace MauiApp1
                 faction.Race = firstSplit[5];
                 faction.FactionName= firstSplit[9];
                 faction.FactionLeader= firstSplit[13];
+<<<<<<< HEAD
                 faction.FactionStronghold = firstSplit[18];
+=======
+                faction.FactionStronghold = firstSplit[17];
+
+>>>>>>> 7c785e6f1fb891852e677b3f91e7bd922de667fd
 
                 factionList.Add(faction);
             }
